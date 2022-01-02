@@ -1,1 +1,0 @@
-u8* EWRAM = AGBmem + 0x02000000;

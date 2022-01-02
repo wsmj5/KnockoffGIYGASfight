@@ -1,1 +1,0 @@
-u8* IWRAM = AGBmem + 0x03000000;
